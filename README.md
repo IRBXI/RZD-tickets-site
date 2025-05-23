@@ -61,3 +61,5 @@ fastapi dev ./app/main.py
 ```bash
 fastapi run ./app/main.py
 ```
+
+На ``localhost:8000/docs`` будет доступна open-api документация 
