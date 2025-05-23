@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/IRBXI/RZD-tickets-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Mysski0m/RZD-tickets-frontend
